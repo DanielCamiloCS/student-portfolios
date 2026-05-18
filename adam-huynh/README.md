@@ -7,7 +7,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![DevOps](https://img.shields.io/badge/DevOps-AIOps-purple?style=for-the-badge)
 
-This project demonstrates how mathematical concepts are used in AI-assisted cloud infrastructure and DevOps monitoring systems (AIOps).
+This project demonstrates how mathematical concepts are used in AI-assisted cloud infrastructure and DevOps monitoring systems known as AIOps.
 
 The project includes simple Python and C++ examples that simulate infrastructure monitoring and anomaly detection using statistical analysis techniques commonly found in real-world monitoring platforms.
 
